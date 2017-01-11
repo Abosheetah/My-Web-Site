@@ -15,14 +15,14 @@ namespace My_Web_Site.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "My Name is Muhammad Abosheetah, i'm a programmer.";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "My Name is Muhammad Abosheetah, i'm a programmer.";
 
             return View();
         }
